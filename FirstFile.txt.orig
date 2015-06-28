@@ -1,0 +1,10 @@
+Asta este primul fisier de pus pe git
+
+Are mai multe linii
+
+<<<<<<< HEAD
+Si are si ? Eva
+=======
+Si are si ? Altceva
+>>>>>>> second
+
